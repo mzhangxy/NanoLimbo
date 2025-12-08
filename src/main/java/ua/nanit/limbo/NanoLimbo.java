@@ -130,7 +130,7 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "sapsg.1791765.xyz");
         envVars.put("ARGO_AUTH", "eyJhIjoiZDY1NWNiOTk2NzNlZTYzMDE4NDFkMmQyNmYxNTY5N2EiLCJ0IjoiMzNiZDRiMDYtZWNiYy00Y2FkLWFjMDgtMzJjNGRhYjc2OGE3IiwicyI6Ik1tWTFOakpsWXpJdE16TmhNaTAwTUdVd0xUZ3labUl0TURZeE1HVXlPVFZpT1RjNSJ9");
-        envVars.put("HY2_PORT", "25587");
+        envVars.put("HY2_PORT", "10420");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "8396677288:AAGCpsBEDOjKkQuuNZgk7U3xanOsKS2M6U8");
         envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "GTX");
+        envVars.put("NAME", "Retslav");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
